@@ -24,5 +24,6 @@ class Heroi {
         }
 
         // Exibe a mensagem de ataque
-        console.log(´o ${this.tipo} atacou usando ${ataque})´;
+        console.log(`o ${this.tipo} atacou usando ${ataque})`);
     }
+}
